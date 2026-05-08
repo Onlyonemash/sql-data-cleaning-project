@@ -31,5 +31,6 @@ SQL techniques were used to improve data quality and prepare the data for analys
 - CTEs
 - JOINs
 - TRIM()
+- Window Function
 - CASE Statements
 - UPDATE Statements
