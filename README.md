@@ -9,7 +9,7 @@ The goal of this project was to simulate a real data analyst workflow by prepari
 ---
 
 ## 📊 Dataset Source
-- Kaggle: https://www.kaggle.com/datasets/swaptr/layoffs-2022
+- Kaggle
 
 ---
 
